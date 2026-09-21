@@ -22,8 +22,10 @@ Smart Bug Analysis is a Data Analyst project used to analyze software bugs and u
 - High-priority and unresolved bugs
 - Interactive Power BI dashboard
 
+
 ## Dashboard
 
+![Smart Bug Analysis Dashboard](smartbug analysis.png)
 The Power BI dashboard provides a clear visual summary of bug status, priority, project distribution, and resolution time.
 
 ## Project Outcome
